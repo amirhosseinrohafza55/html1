@@ -1,0 +1,66 @@
+
+#lefttd{
+width: 30%;
+background-color: rebeccapurple;
+
+border: 1px solid rgba(100,100,100);
+
+}
+#righttd{
+    width: 30%;
+    background-color: rebeccapurple;
+    
+}
+#centertd{
+    width: 40%;
+    background-color: antiquewhite;
+    
+}
+#lefttd , #righttd , #centertd{
+    border: 1px solid rgba(100,100,100,.3);
+    height: 700px;
+}
+.product{
+    text-align: center;
+    border: 1px solid rgba(100,100,100,.2);
+    height: 200px;
+    border-radius: 5px;
+}
+#footter{
+    background-color: whitesmoke;
+    border: 1px solid rgba(100,100,100,.2);
+    height: 25px;
+}
+#banner{
+    background-color: #333;
+    color: white;
+   height: 150px;
+}
+table{
+width: 100%;
+text-align: center;
+}
+ol{
+    
+    background-color: red;
+    direction: rtl;
+}
+li{
+   
+    display: inline-flex;
+   
+}
+a{
+    color: white;
+    padding: 10px 10px;
+    text-decoration: none;
+    font-size: 25px;
+}
+.dalton{
+
+    color: black;
+}
+*{
+    margin:0px;
+   font-family: Vazir;
+}
